@@ -1,0 +1,119 @@
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\bin\Debug\Library.mdf
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\bin\Debug\Library_log.ldf
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\bin\Debug\LMSSystem.exe.config
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\bin\Debug\LMSSystem.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\bin\Debug\LMSSystem.pdb
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\LMSSystem.Form1.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\LMSSystem.main.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\LMSSystem.Properties.Resources.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\LMSSystem.csproj.GenerateResource.Cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\LMSSystem.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\LMSSystem\obj\Debug\LMSSystem.pdb
+G:\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe.config
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.exe
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.pdb
+G:\LMSSystem\LMSSystem\bin\Debug\Library.mdf
+G:\LMSSystem\LMSSystem\bin\Debug\Library_log.ldf
+G:\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe
+G:\LMSSystem\LMSSystem\bin\Debug\LMSSystem.pdb
+G:\LMSSystem\LMSSystem\obj\Debug\ResolveAssemblyReference.cache
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.Form1.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.main.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.Properties.Resources.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentreg.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.csproj.GenerateResource.Cache
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.issue.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.book.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.password.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentinfo.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.booksearch.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.mainfrom.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.updatestudentcs.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.id.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.publisher.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.writer.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.view.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.updatebook.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.transiction.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.About.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.clock.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.librian.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.student.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.raz.resources
+G:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.newraz.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe.config
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.exe
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.pdb
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\bin\Debug\Library.mdf
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\bin\Debug\Library_log.ldf
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\bin\Debug\LMSSystem.pdb
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.About.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.book.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.booksearch.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.clock.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.Form1.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.id.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.issue.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.librian.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.main.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.mainfrom.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.newraz.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.password.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.Properties.Resources.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.publisher.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.raz.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.student.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentinfo.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentreg.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.transiction.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.updatebook.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.updatestudentcs.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.view.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.writer.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.csproj.GenerateResource.Cache
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentlogin.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.deletebook.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.jobs.resources
+C:\Users\SHEIKH RAJ\Desktop\LMSSystem\LMSSystem\obj\Debug\LMSSystem.game.resources
+G:\RAJC#\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe.config
+G:\RAJC#\LMSSystem\LMSSystem\obj\Debug\LMSSystem.exe
+G:\RAJC#\LMSSystem\LMSSystem\obj\Debug\LMSSystem.pdb
+D:\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe.config
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.exe
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.pdb
+D:\LMSSystem\LMSSystem\bin\Debug\Library.mdf
+D:\LMSSystem\LMSSystem\bin\Debug\Library_log.ldf
+D:\LMSSystem\LMSSystem\bin\Debug\LMSSystem.exe
+D:\LMSSystem\LMSSystem\bin\Debug\LMSSystem.pdb
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.csprojResolveAssemblyReference.cache
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.About.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.book.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.booksearch.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.clock.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.deletebook.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.Form1.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.game.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.id.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.issue.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.jobs.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.librian.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.main.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.mainfrom.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.newraz.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.password.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.Properties.Resources.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.publisher.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.raz.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.student.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentinfo.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentlogin.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.studentreg.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.transiction.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.updatebook.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.updatestudentcs.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.view.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.writer.resources
+D:\LMSSystem\LMSSystem\obj\Debug\LMSSystem.csproj.GenerateResource.Cache
